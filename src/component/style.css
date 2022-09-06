@@ -1,0 +1,27 @@
+form{
+    width: 600px;
+    height: 650px;
+    background-color: white;
+    box-shadow: 10px 10px 10px ;
+
+}
+
+#main-container{
+    height: 675px;
+    background-color: #439dd9;
+    background-image: linear-gradient(180deg, #439dd9, #38ced9);
+}
+
+h2{
+    color: #38ced9;
+    padding-top: 3%;
+}
+
+select
+{
+    width:  40%;
+}
+
+
+
+  

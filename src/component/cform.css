@@ -1,0 +1,24 @@
+.btnn{
+    background-color: #2371b9;
+    color: white;
+    border-radius: 20px;
+    width: 80%;
+}
+textarea {
+    width: 440px;
+    height: 100px;
+  }
+.m-container{
+      width:500px;
+      height: 600px;
+      padding: 30px;
+      margin-top: 50px;
+      background-color: lightgray;
+      
+  }
+   input[type=text],[type=email]{
+      width: 100%;
+      display: inline-block;
+      height: 50px;
+       
+  }
